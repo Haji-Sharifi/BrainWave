@@ -11,3 +11,4 @@ Currently, two official plugins are available:
 # BrainWaveReact
 "# BrainWaveReact" 
 "# BrainWave" 
+"# BrainWave" 
