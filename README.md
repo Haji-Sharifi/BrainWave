@@ -1,14 +1,59 @@
-# React + Vite
+# 🚀 Project Name
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern web application built with **React** and **Tailwind CSS**, deployed seamlessly on [Vercel](https://vercel.com).
 
-Currently, two official plugins are available:
+## 🌐 Live Demo
+🔗 [View Project](https://brain-wave12.vercel.app/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-  "# mystartup3"
+---
 
-# BrainWaveReact
-"# BrainWaveReact" 
-"# BrainWave" 
-"# BrainWave" 
+## 📌 Features
+- ⚡ Fast and responsive UI with TailwindCSS  
+- 📱 Mobile-first design  
+- 🎨 Clean and modern user interface  
+- 🚀 Deployed on Vercel with CI/CD integration  
+
+---
+
+## 🛠️ Tech Stack
+- **Frontend:** React, Tailwind CSS  
+- **Deployment:** Vercel  
+
+---
+
+## 📂 Project Setup
+
+### 1️⃣ Clone the repository
+```bash
+git clone https://github.com/Haji-Sharifi/BrainWave.git
+cd  BrainWave
+```
+
+### 2️⃣ Install dependencies
+```bash
+npm install
+```
+
+### 3️⃣ Start development server
+```bash
+npm start
+  ||
+npm run dev
+```
+
+The app will be running at `http://localhost:3000`.
+
+---
+
+## 🚀 Deployment on Vercel
+Every push to the `main` branch will automatically trigger a new deployment on Vercel.  
+You can also manually deploy using:
+```bash
+vercel --prod
+```
+
+---
+
+## 📸 Screenshots
+
+---
